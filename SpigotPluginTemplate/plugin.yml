@@ -1,0 +1,4 @@
+name: SpigotPluginTemplate
+main: com.convinced.plugin.SpigotPluginTemplate
+version: 1.0
+commands:
